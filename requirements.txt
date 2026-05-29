@@ -1,0 +1,9 @@
+torch>=2.0.0
+torchvision
+monai==1.5.2
+nibabel
+numpy
+scipy
+tqdm
+pandas
+python-dotenv
