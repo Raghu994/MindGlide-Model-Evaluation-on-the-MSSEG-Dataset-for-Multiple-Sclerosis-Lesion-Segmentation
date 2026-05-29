@@ -1,5 +1,5 @@
 # MindGlide MS Lesion Segmentation — Evaluation
-## mMEDCON Project | MSSEG-2 Dataset
+##  MSSEG-2 Dataset
 
 Evaluation of the pretrained MindGlide model on the MSSEG-2 dataset for multiple sclerosis (MS) white matter lesion segmentation. All 20 subjects were evaluated using time01 FLAIR MRI scans compared against manual expert annotations.
 
