@@ -50,14 +50,8 @@ cd ..
 pip install -r requirements.txt
 ```
 
-### 3. Configure environment
 
-```bash
-cp .env.example .env
-# Edit .env with your actual dataset and model paths
-```
-
-### 4. Run evaluation
+### 3. Run evaluation
 
 ```bash
 python master_evaluation.py
